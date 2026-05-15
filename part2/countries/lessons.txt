@@ -1,0 +1,1 @@
+GET returns data as object not array therefore cannot .map directly. Get the values of the object with Object.values{objectdata.subobjectdata} first
